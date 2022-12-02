@@ -23,7 +23,7 @@ function crearUsuario() {
     return `Hola, mi nombre es ${this.nombre}`;
   } */
 
-  //Class ES6 puede ser
+  //Class ES6
   class Usuario {
     constructor(obj) {
       this.usuario = obj.usuario;
