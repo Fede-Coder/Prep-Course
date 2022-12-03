@@ -10,10 +10,6 @@ body {
     border: solid rgb(7, 156, 14) 5px;
 }
 
-.divClass {
-
-}
-
 .divClass #spanId {
     font-size: 18px;
     margin: 50px;
